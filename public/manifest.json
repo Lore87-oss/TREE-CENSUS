@@ -1,0 +1,10 @@
+{
+  "short_name": "TreeCensus",
+  "name": "TreeCensusPro - Censimento Alberi",
+  "description": "App per Visual Tree Assessment e censimento alberi",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#059669",
+  "background_color": "#ecfdf5",
+  "orientation": "portrait-primary"
+}
