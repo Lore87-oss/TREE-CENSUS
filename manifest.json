@@ -1,0 +1,61 @@
+{
+  "name": "Tree Census Pro - Censimento Alberi",
+  "short_name": "TreeCensus",
+  "description": "App professionale per Visual Tree Assessment - Gestione censimento arboreo con foto, mappe e PDF",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23059669' width='192' height='192'/><text x='96' y='120' font-size='80' text-anchor='middle' fill='white' font-weight='bold'>🌲</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect fill='%23059669' width='512' height='512'/><text x='256' y='380' font-size='300' text-anchor='middle' fill='white' font-weight='bold'>🌲</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 540 720'><rect fill='%23f0fdf4' width='540' height='720'/><text x='270' y='100' font-size='40' text-anchor='middle' fill='%23059669' font-weight='bold'>Censimento Alberi</text></svg>",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Nuovo Rilievo",
+      "short_name": "Nuovo",
+      "description": "Aggiungi un nuovo albero al censimento",
+      "url": "/?action=new",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%2310b981' width='96' height='96' rx='20'/><text x='48' y='60' font-size='40' text-anchor='middle' fill='white'>➕</text></svg>",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Visualizza Mappa",
+      "short_name": "Mappa",
+      "description": "Vedi gli alberi sulla mappa GIS",
+      "url": "/?action=map",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><rect fill='%230891b2' width='96' height='96' rx='20'/><text x='48' y='60' font-size='40' text-anchor='middle' fill='white'>🗺️</text></svg>",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

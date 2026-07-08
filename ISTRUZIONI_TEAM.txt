@@ -1,0 +1,156 @@
+════════════════════════════════════════════════════════════════
+🌲 TREE CENSUS PRO - GUIDA PER IL TEAM
+════════════════════════════════════════════════════════════════
+
+📱 COME USARE L'APP DAL TELEFONO IN 3 PASSAGGI:
+
+PASSAGGIO 1: APRI IL LINK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👉 Clicca su questo link dal tuo TELEFONO:
+   https://tree-census-abc123.vercel.app
+   
+   (Il link te l'ha mandato il coordinatore)
+
+
+PASSAGGIO 2: INSTALLA COME APP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📱 SE HAI ANDROID (Chrome):
+   1. Aspetta che compaia il banner "Installa come app"
+   2. Clicca il pulsante "INSTALLA"
+   3. Vedrai l'icona 🌲 nella tua HOME
+   
+📱 SE HAI iPhone (Safari):
+   1. Clicca il pulsante CONDIVIDI (quadrato con freccia in su)
+   2. Scorri e seleziona "Aggiungi a Home"
+   3. Vedrai l'icona 🌲 nella tua HOME
+
+
+PASSAGGIO 3: INIZIA A USARE!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Clicca l'icona 🌲 e:
+
+   ✅ Aggiungi nuovo albero
+      Pulsante "Nuovo Rilievo" → Compila i dati
+      
+   📸 Carica foto
+      Clicca su "Foto (0)" → Prendi foto dell'albero
+      
+   🗺️ Visualizza mappa
+      Pulsante "Mappa GIS" → Vedi posizioni
+      
+   📄 Esporta PDF
+      Clicca "PDF" per stampare la scheda
+      
+   📊 Scarica CSV
+      Pulsante "Esporta CSV" → Excel/Sheets
+
+
+════════════════════════════════════════════════════════════════
+🎯 CHECKLIST RAPIDA
+════════════════════════════════════════════════════════════════
+
+Durante il sopralluogo in campo:
+
+☐ Apri l'app (icona 🌲 in home)
+☐ Clicca "Nuovo Rilievo"
+☐ Compila: Specie, Diametro, Altezza, Giudizio, CPC
+☐ Aggiungi coordinate GPS (if available)
+☐ Scatta foto: clicca "Foto (0)" → Upload
+☐ Salva
+☐ RIPETI per prossimo albero
+
+
+════════════════════════════════════════════════════════════════
+❓ DOMANDE FREQUENTI
+════════════════════════════════════════════════════════════════
+
+D: L'app funziona senza WiFi?
+R: SÌ! Funziona offline. I dati si sincronizzano quando torni
+   online (se il coordinatore ha settato il cloud).
+
+D: Dove vanno a finire i dati che aggiungo?
+R: Su "localStorage" del tuo telefono. Se il team condivide i 
+   dati, vengono sincronizzati al cloud Supabase.
+
+D: Posso aggiungere più foto per albero?
+R: SÌ! Clicca "Foto" → "Aggiungi foto" → Upload quante vuoi.
+
+D: Come stampo la scheda VTA?
+R: Clicca il pulsante "PDF" accanto all'albero.
+   Scegli "Stampa" o "Salva come PDF".
+
+D: Dove scarico i dati in Excel?
+R: Pulsante "Esporta CSV" → Apri con Excel/Sheets.
+
+D: Mi son sbagliato, come cancello un albero?
+R: Clicca l'albero → Pulsante "Elimina" → Conferma.
+
+D: L'app occupa storage?
+R: NO, funziona nel browser. Solo le foto (se molte) occupano
+   spazio. Cancella da "Impostazioni telefono" se necessario.
+
+
+════════════════════════════════════════════════════════════════
+⚡ TRICK VELOCI
+════════════════════════════════════════════════════════════════
+
+1. Abbrevia il link con QR code:
+   → bit.ly/tree-census-team
+   → Scrivi il QR code sulla clipboard di campo
+
+2. Offline mode:
+   → Apri app 1 volta online
+   → Funziona anche senza WiFi
+   → Sincronizza quando torni online
+
+3. Backup rapido:
+   → Ogni settimana scarica il CSV
+   → Salva sul tuo Drive/OneDrive
+
+4. Condividi dati:
+   → Scarica CSV
+   → Condividi via email/WhatsApp
+   → Collega li importa
+
+
+════════════════════════════════════════════════════════════════
+🆘 PROBLEMI? CONTATTA IL COORDINATORE
+════════════════════════════════════════════════════════════════
+
+Problema:
+□ L'app non carica
+□ Le foto non si salvano
+□ I dati non si sincronizzano
+□ Il PDF non stampa
+□ Altro: _________________
+
+Soluzione quick:
+1. Ricarica la pagina (refresh)
+2. Pulisci cache: CTRL+SHIFT+DEL → Cancella tutto
+3. Riavvia app
+4. Prova da incognito (se persiste)
+
+Se non funziona, contatta il coordinatore!
+
+
+════════════════════════════════════════════════════════════════
+📱 ICONE COLORI SIGNIFICATO
+════════════════════════════════════════════════════════════════
+
+🟢 VERDE = Albero in buone condizioni
+🟡 GIALLO = Albero in stato mediocre
+🔴 ROSSO = Albero in cattive condizioni
+⚠️ = Albero A RISCHIO - Monitoraggio urgente!
+
+
+════════════════════════════════════════════════════════════════
+✅ FATTO!
+
+Sei pronto a censire gli alberi!
+Buon lavoro! 🌲📸🗺️
+
+Per dubbi: Leggi QUICK_START.md o GUIDA_DEPLOYMENT.md
+════════════════════════════════════════════════════════════════
