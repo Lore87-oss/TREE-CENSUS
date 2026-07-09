@@ -226,7 +226,7 @@ const TreeCensusApp = () => {
   };
 
   const handleDelete = (id) => {
-    if (confirm('Sei sicuro di voler eliminare questo albero?')) {
+    if (window.confirm('Sei sicuro di voler eliminare questo albero?')) {
       setTrees(trees.filter(t => t.id !== id));
     }
   };
